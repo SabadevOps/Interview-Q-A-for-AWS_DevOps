@@ -21,13 +21,24 @@ Provisioning and managing virtual machines for running applications, microservic
 infrastructure as cod
  
 4. **Q:** What is S3
-   **A:** Simple Storage Service – object storage service to store files, backups, and data.
+Amazon S3 (Simple Storage Service): 
+ Use Case: Object storage for a wide variety of data types, including backup, archiving, 
+  and content distribution.
+ Differentiators: Storage Classes: Standard, Intelligent-Tiering, Standard-IA, One 
+  Zone-IA, Glacier, And Glacier Deep Archive.
+ Durability and Availability: Designed for 99.999999999% (11 9's) durability and high 
+  availabili
 
 5. **Q:** Difference between EC2 and Lambda?
    **A:** EC2 is VM-based; Lambda is serverless and runs code on demand.
 
 6. **Q:** What is VPC?
-   **A:** Virtual Private Cloud – isolated network in AWS for resources.
+  A private, isolated network within the AWS cloud where we can launch and manage our 
+   resources securely.
+                          Or
+   Amazon Virtual Private Cloud (VPC) is a virtual network that you can use to launch 
+   AWS resources in a logically isolated section of the AWS cloud. You can use VPC to 
+   create a virtual network that resembles your own datacente
 
 7. **Q:** What is IAM?
    **A:** Identity and Access Management – controls user access and permissions.
