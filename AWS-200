@@ -2,12 +2,25 @@
    **A:** Amazon Web Services (AWS) is a cloud platform providing on-demand computing, storage, databases, networking, and more.
 
 2. **Q:** What are the key benefits of AWS?
-   **A:** Scalability, flexibility, pay-as-you-go pricing, security, global availability.
-
 3. **Q:** What is EC2?
-   **A:** Elastic Compute Cloud – provides resizable compute capacity in the cloud.
-
-4. **Q:** What is S3?
+An Amazon EC2 instance is a virtual server that runs in the Amazon Web Services (AWS) 
+cloud. We can use EC2 instances to run applications, microservices, and infrastructure 
+as code.
+• Features
+Control: You can fully control your instance from the time you launch it until you delete 
+it.
+Scalability: You can launch as many or as few virtual servers as you need.
+Performance: You can choose between fixed performance instances and burstable 
+performance instances.
+Cost: You can request unused EC2 instances at a discount using Spot Instances.
+• Use cases
+Developing and deploying applications faster
+Handling compute-heavy tasks, such as monthly or yearly processes, or spikes in website 
+traffic
+Provisioning and managing virtual machines for running applications, microservices, and 
+infrastructure as cod
+ 
+4. **Q:** What is S3
    **A:** Simple Storage Service – object storage service to store files, backups, and data.
 
 5. **Q:** Difference between EC2 and Lambda?
