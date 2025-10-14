@@ -1,0 +1,101 @@
+🎀My name is **Nuzhat Saba**, and I’m from **Jharkhand**. I am currently working as an **AWS DevOps Engineer** for the past **two years**.
+I have a total of ** 4 years of experience**. The first two years, I worked as an **IT Support Engineer**, and the last two years, 
+I have been working as an **AWS DevOps Engineer** at **ABC Company**.
+In my current role, I have hands-on experience with major **AWS services** 
+such as **EC2, VPC, Auto Scaling, Load Balancer, S3, RDS, IAM**, and for **logging and monitoring**, I’ve worked with **ELK Stack, Prometheus, and Grafana**.
+
+I also have experience with popular **DevOps tools**:
+
+* **Jenkins, GitHub ** for CI/CD
+* **Docker and Kubernetes** for containerization and deployment
+* **Ansible** for configuration management
+* **Terraform** for infrastructure as code
+
+I enjoy automating processes, improving deployments, and building scalable and reliable systems.
+
+“What is your current role and responsibilities?
+
+
+
+🎀How much is your CTC and what is your expected CTC?**
+
+My current CTC is around **5 LPA** , and I’m expecting around **8 LPA**.
+
+🎀### **4️⃣ Why are you looking for a new job?**
+
+I’m looking for better growth opportunities and a place where I can work on more challenging DevOps projects, especially in areas like automation, cloud infrastructure, and CI/CD improvements.
+I also want to explore environments where I can learn from a larger team and contribute to scalable deployments.
+
+🎀### **5️⃣ What is your last working day?**
+
+If you’ve already resigned:
+👉 “My last working day is [mention date], as I’m currently serving my notice period.”
+If you haven’t:
+👉 “I haven’t resigned yet; I’ll serve the standard notice period once I receive an offer.”
+
+---
+
+🎀### **6️⃣ Do you have your PF documents with yourself?**
+
+Yes, I have my PF details and documents. I can provide them if required.
+
+---
+
+🎀### **7️⃣ What is your current location?**
+
+I’m currently based in [Your City]. 
+
+---
+
+🎀### **8️⃣ Why are you looking for a job change?**
+
+I’m looking for a change to improve my skills and gain exposure to more advanced DevOps environments — especially with Kubernetes, CI/CD automation, and cloud-native tools.
+Also, I want to work in a team that has more structured DevOps practices and larger production setups.
+
+---
+
+🎀### **9️⃣ What are the DevOps stages?**
+
+The main stages in the DevOps lifecycle are:
+
+1. **Plan** – Understanding requirements and planning features.
+2. **Code** – Writing and reviewing code.
+3. **Build** – Compiling and building the code into artifacts.
+4. **Test** – Automated testing for quality assurance.
+5. **Release** – Releasing builds to staging or production.
+6. **Deploy** – Deploying applications automatically.
+7. **Operate** – Running and maintaining systems in production.
+8. **Monitor** – Tracking performance and errors for continuous improvement.
+
+---
+
+🎀### **🔟 What are the stages in Jenkinsfile?**
+
+Common stages in a Jenkins pipeline (Jenkinsfile) are:
+
+1. **Checkout** – Pull code from Git.
+2. **Build** – Compile or build the application (e.g., using Maven or npm).
+3. **Test** – Run unit or integration tests.
+4. **Package** – Create artifacts or Docker images.
+5. **Deploy** – Deploy to a test, staging, or production environment.
+6. **Notify** – Send notifications (e.g., email or Slack) about build status.
+
+Example snippet:
+
+```groovy
+pipeline {
+    stages {
+        stage('Checkout') { steps { git 'https://github.com/repo.git' } }
+        stage('Build') { steps { sh 'mvn clean package' } }
+        stage('Test') { steps { sh 'mvn test' } }
+        stage('Deploy') { steps { sh './deploy.sh' } }
+    }
+}
+```
+🎀“What is your current role and responsibilities?”
+
+I’m currently working as an AWS DevOps Engineer at ABC Company for the past two years.
+I mainly manage AWS resources like EC2, S3, RDS, and VPC, and automate deployments using Jenkins and CI/CD pipelines.
+I also containerize applications with Docker and Kubernetes and handle infrastructure as code using Terraform.
+On top of that, I work on monitoring and logging with ELK Stack, Prometheus, and Grafana,
+and collaborate with the development and QA teams to make sure deployments are smooth, scalable, and reliable
